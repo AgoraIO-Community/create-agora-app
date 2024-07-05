@@ -5,17 +5,17 @@
 install dependencies
 
 ```bash
-pnpm i
+npm i
 ```
 
 run LiveVideo demo
 
 ```bash
-pnpm run svelte
+npm run svelte
 ```
 
 build LiveVideo demo
 
 ```bash
-pnpm run build:svelte
+npm run build:svelte
 ```

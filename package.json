@@ -1,6 +1,6 @@
 {
   "name": "create-agora",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "type": "module",
   "license": "MIT",
   "author": "xsm",
@@ -31,6 +31,7 @@
   "devDependencies": {
     "@types/minimist": "^1.2.5",
     "@types/prompts": "^2.4.9",
+    "@types/cross-spawn": "^6.0.3",
     "cross-spawn": "^7.0.3",
     "kolorist": "^1.8.0",
     "minimist": "^1.2.8",

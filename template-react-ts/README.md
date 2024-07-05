@@ -5,17 +5,17 @@
 install dependencies
 
 ```bash
-pnpm i
+npm i
 ```
 
 run LiveVideo demo
 
 ```bash
-pnpm run dev
+npm run dev
 ```
 
 build LiveVideo demo
 
 ```bash
-pnpm run build
+npm run build
 ```

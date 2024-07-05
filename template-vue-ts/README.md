@@ -5,17 +5,17 @@
 install dependencies
 
 ```bash
-pnpm i
+npm i
 ```
 
 run LiveVideo demo
 
 ```bash
-pnpm run vue
+npm run vue
 ```
 
 build LiveVideo demo
 
 ```bash
-pnpm run build:vue
+npm run build:vue
 ```
