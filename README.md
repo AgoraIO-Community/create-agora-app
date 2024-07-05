@@ -30,6 +30,7 @@ $ bunx create-agora
 
 Currently supported template presets include:
 
+- `vanilla-js`
 - `vue-ts`
 - `react-ts`
 - `svelte-ts`
