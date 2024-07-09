@@ -1,11 +1,11 @@
 {
-  "name": "create-agora",
+  "name": "create-agora-app",
   "version": "0.0.7",
   "type": "module",
   "license": "MIT",
   "author": "xsm",
   "bin": {
-    "create-agora": "index.js"
+    "create-agora-app": "index.js"
   },
   "files": [
     "index.js",

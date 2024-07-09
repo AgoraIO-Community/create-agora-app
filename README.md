@@ -1,4 +1,4 @@
-# create-agora
+# create-agora-app
 
 > **Compatibility Note:** Vite requires [Node.js](https://nodejs.org/en/) version 18+, 20+. However, some templates require a higher Node.js version to work, please upgrade if your package manager warns about it.
 
@@ -7,25 +7,25 @@
 With Yarn:
 
 ```
-$ yarn create agora
+$ yarn create agora-app
 ```
 
 With PNPM:
 
 ```
-$ pnpm create agora
+$ pnpm create agora-app
 ```
 
 With NPM:
 
 ```
-$ npm create agora@latest
+$ npm create agora-app
 ```
 
 With Bun:
 
 ```
-$ bunx create-agora
+$ bunx create-agora-app
 ```
 
 Currently supported template presets include:
