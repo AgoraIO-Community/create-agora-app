@@ -19,7 +19,7 @@ $ pnpm create agora-app
 With NPM:
 
 ```
-$ npm create agora-app
+$ npm create agora-app@latest
 ```
 
 With Bun:

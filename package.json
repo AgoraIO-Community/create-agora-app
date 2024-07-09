@@ -1,6 +1,6 @@
 {
   "name": "create-agora-app",
-  "version": "0.0.8",
+  "version": "0.0.11",
   "type": "module",
   "license": "MIT",
   "author": "xsm",
@@ -9,7 +9,10 @@
   },
   "files": [
     "index.js",
-    "template-*",
+    "template-react-ts",
+    "template-svelte-ts",
+    "template-vue-ts",
+    "template-vanilla-js",
     "dist"
   ],
   "scripts": {
@@ -21,7 +24,6 @@
     "node": "^18.0.0 || >=20.0.0"
   },
   "repository": {
-    "type": "git",
     "url": "https://github.com/AgoraIO-Community/create-agora-app"
   },
   "bugs": {
@@ -37,6 +39,5 @@
     "prompts": "^2.4.2",
     "typescript": "^5.4.2",
     "unbuild": "^2.0.0"
-  },
-  "packageManager": "yarn@1.22.22+sha1.ac34549e6aa8e7ead463a7407e1c7390f61a6610"
+  }
 }
