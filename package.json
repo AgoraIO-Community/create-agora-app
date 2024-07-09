@@ -1,6 +1,6 @@
 {
   "name": "create-agora-app",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "type": "module",
   "license": "MIT",
   "author": "xsm",
@@ -15,18 +15,17 @@
   "scripts": {
     "dev": "unbuild --stub",
     "build": "unbuild",
-    "typecheck": "tsc --noEmit",
-    "prepublishOnly": "npm run build"
+    "typecheck": "tsc --noEmit"
   },
   "engines": {
     "node": "^18.0.0 || >=20.0.0"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/AgoraIO/agora-rtc-web"
+    "url": "https://github.com/AgoraIO-Community/create-agora-app"
   },
   "bugs": {
-    "url": "https://github.com/AgoraIO/agora-rtc-web/issues"
+    "url": "https://github.com/AgoraIO-Community/create-agora-app/issues"
   },
   "devDependencies": {
     "@types/minimist": "^1.2.5",
